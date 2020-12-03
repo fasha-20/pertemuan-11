@@ -163,6 +163,6 @@ Menghapus Data Mahasiswa
 
 FLOWCHART
 
-![7.png](/gmbr/7.png)
+![7.png](/gmbr1/7.png)
 
 SEKIAN
